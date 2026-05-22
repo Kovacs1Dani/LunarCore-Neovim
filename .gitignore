@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Neovim specific ignores
+*~
+*.swp
+*.swo
+*.tmp
+tags
+.netrwhist
+
+# Lazy.nvim plugin lockfile
+# (Uncomment the line below if you DO NOT want to track exact plugin versions)
+# lazy-lock.json
