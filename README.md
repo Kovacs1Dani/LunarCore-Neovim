@@ -52,7 +52,7 @@ Everything from the command line to the completion engine has been visually over
 
 2.  Clone this repository:
     ```bash
-    git clone https://github.com/Kovacs1Dani/lunarcore-nvim.git ~/.config/nvim
+    git clone https://github.com/Kovacs1Dani/LunarCore-Neovim.git ~/.config/nvim
     ```
 
 3.  Open Neovim:
